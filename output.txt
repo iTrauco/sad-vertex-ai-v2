@@ -1,0 +1,6 @@
+sad-vertex-ai
+us-central1
+gs://trauco-sad-vertex-ai-unique/
+capture me if you can!
+capture me if you can!
+capture me if you can!
